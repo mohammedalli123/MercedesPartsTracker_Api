@@ -1,0 +1,6 @@
+@MercedesPartsTracker.api_HostAddress = http://localhost:5219
+
+GET {{MercedesPartsTracker.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

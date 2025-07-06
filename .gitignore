@@ -52,3 +52,28 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Terraform
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Override files that are local and not meant to be shared
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# Terraform local binaries and caches
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.exe
+*.zip

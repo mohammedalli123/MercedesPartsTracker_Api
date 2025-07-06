@@ -1,0 +1,44 @@
+# services:
+
+#   db:
+#     image: postgres
+#     ports:
+#       - "5432:5432"
+#     restart: always
+#     shm_size: 128mb
+  
+#     environment:
+#       POSTGRES_USER: admin    
+#       POSTGRES_PASSWORD: pass 
+#       POSTGRES_DB: mercparts
+
+version: '3.8'
+
+services:
+  db:
+    image: postgres
+    ports:
+      - "5432:5432"
+    restart: always
+    shm_size: 128mb
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: mercparts
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5219:8080"
+    depends_on:
+      - db
+    environment:
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=mercparts;Username=admin;Password=pass
+      ASPNETCORE_ENVIRONMENT: Development
+
+volumes:
+  pgdata:

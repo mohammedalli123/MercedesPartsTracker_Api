@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC4223-08E1-4B01-95EA-984C690172CA}|MercedesPartsTracker.Services.Tests\\MercedesPartsTracker.Services.Tests.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.services.tests\\partservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CC4223-08E1-4B01-95EA-984C690172CA}|MercedesPartsTracker.Services.Tests\\MercedesPartsTracker.Services.Tests.csproj|solutionrelative:mercedespartstracker.services.tests\\partservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.api\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|solutionrelative:mercedespartstracker.api\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}|MercedesPartsTracker.Services\\MercedesPartsTracker.Services.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.services\\implementations\\partservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}|MercedesPartsTracker.Services\\MercedesPartsTracker.Services.csproj|solutionrelative:mercedespartstracker.services\\implementations\\partservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}|MercedesPartsTracker.Services\\MercedesPartsTracker.Services.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.services\\interfaces\\ipartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}|MercedesPartsTracker.Services\\MercedesPartsTracker.Services.csproj|solutionrelative:mercedespartstracker.services\\interfaces\\ipartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD0EAD2-0681-8138-2490-B04039757B8E}|MercedesPartsTracker.EntityFrameworkModels\\MercedesPartsTracker.EntityFrameworkModels.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.entityframeworkmodels\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD0EAD2-0681-8138-2490-B04039757B8E}|MercedesPartsTracker.EntityFrameworkModels\\MercedesPartsTracker.EntityFrameworkModels.csproj|solutionrelative:mercedespartstracker.entityframeworkmodels\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|solutionrelative:mercedespartstracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|solutionrelative:mercedespartstracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|solutionrelative:mercedespartstracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|c:\\src\\visual studio\\mercedespartstracker\\mercedespartstracker\\mercedespartstracker.api\\mercedespartstracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89A63B3C-C10A-4C94-A464-55E19A183507}|MercedesPartsTracker.Api\\MercedesPartsTracker.Api.csproj|solutionrelative:mercedespartstracker.api\\mercedespartstracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercedesPartsTracker.EntityFramework\\DBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Models\\Part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercedesPartsTracker.EntityFramework\\Models\\Part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPartService.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services\\Interfaces\\IPartService.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Services\\Interfaces\\IPartService.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services\\Interfaces\\IPartService.cs",
+              "RelativeToolTip": "MercedesPartsTracker.Services\\Interfaces\\IPartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:17:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkModels\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFrameworkModels\\Models\\Part.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkModels\\Models\\Part.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFrameworkModels\\Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:15:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartService.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services\\Implementations\\PartService.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Services\\Implementations\\PartService.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services\\Implementations\\PartService.cs",
+              "RelativeToolTip": "MercedesPartsTracker.Services\\Implementations\\PartService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:10:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Api\\Controllers\\PartsController.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "MercedesPartsTracker.Api\\Controllers\\PartsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:02:23.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\DBContext.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFramework\\DBContext.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\DBContext.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFramework\\DBContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:25:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MercedesPartsTracker.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T18:44:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250705125017_InitialCreate.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFramework\\Migrations\\20250705125017_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:50:17.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Api\\Program.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\Program.cs",
+              "RelativeToolTip": "MercedesPartsTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:42:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartServiceTests.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services.Tests\\PartServiceTests.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Services.Tests\\PartServiceTests.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Services.Tests\\PartServiceTests.cs*",
+              "RelativeToolTip": "MercedesPartsTracker.Services.Tests\\PartServiceTests.cs*",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:57:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPartService.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFrameworkServices\\Interfaces\\IPartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:49:33.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Api\\appsettings.json",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\appsettings.json",
+              "RelativeToolTip": "MercedesPartsTracker.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T12:38:53.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MercedesPartsTracker.api.http",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\MercedesPartsTracker.api.http",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.Api\\MercedesPartsTracker.api.http",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.Api\\MercedesPartsTracker.api.http",
+              "RelativeToolTip": "MercedesPartsTracker.Api\\MercedesPartsTracker.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-05T18:44:29.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartService.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFrameworkServices\\Implementations\\PartService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:51:19.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "MercedesPartsTracker.EntityFramework\\Models\\Part.cs",
+              "ToolTip": "C:\\src\\Visual Studio\\MercedesPartsTracker\\MercedesPartsTracker\\MercedesPartsTracker.EntityFramework\\Models\\Part.cs",
+              "RelativeToolTip": "MercedesPartsTracker.EntityFramework\\Models\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:29:36.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

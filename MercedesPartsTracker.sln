@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercedesPartsTracker.Api", "MercedesPartsTracker.Api\MercedesPartsTracker.Api.csproj", "{89A63B3C-C10A-4C94-A464-55E19A183507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercedesPartsTracker.Services.Tests", "MercedesPartsTracker.Services.Tests\MercedesPartsTracker.Services.Tests.csproj", "{A3CC4223-08E1-4B01-95EA-984C690172CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercedesPartsTracker.EntityFrameworkModels", "MercedesPartsTracker.EntityFrameworkModels\MercedesPartsTracker.EntityFrameworkModels.csproj", "{ECD0EAD2-0681-8138-2490-B04039757B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercedesPartsTracker.Services", "MercedesPartsTracker.Services\MercedesPartsTracker.Services.csproj", "{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A63B3C-C10A-4C94-A464-55E19A183507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A63B3C-C10A-4C94-A464-55E19A183507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A63B3C-C10A-4C94-A464-55E19A183507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A63B3C-C10A-4C94-A464-55E19A183507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CC4223-08E1-4B01-95EA-984C690172CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CC4223-08E1-4B01-95EA-984C690172CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CC4223-08E1-4B01-95EA-984C690172CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CC4223-08E1-4B01-95EA-984C690172CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD0EAD2-0681-8138-2490-B04039757B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD0EAD2-0681-8138-2490-B04039757B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD0EAD2-0681-8138-2490-B04039757B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD0EAD2-0681-8138-2490-B04039757B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF7E791-4501-CE1A-DC8F-8F83F7962D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E12F0C7-A0A9-4ABD-8DA1-6315C9178CF8}
+	EndGlobalSection
+EndGlobal
