@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t MercedesPartsTracker:latest .
+          docker build -t mercedespartstracker:latest .
 
       - name: Terraform fmt
         run: terraform fmt -check
