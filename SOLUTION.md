@@ -24,8 +24,8 @@ Stores the application's data.
 ```mermaid
     graph TD
     A[Controller] --> B[Service]
-    B  
-````
+    B --> C[PostgreSQL DB]
+```
 
 ## Trade-offs
 
