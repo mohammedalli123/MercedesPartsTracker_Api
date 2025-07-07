@@ -15,6 +15,11 @@ An ASP.NET Core 8 Web API for managing Mercedes car parts inventory, bundled wit
 
 ## Setup Instructions
 
+### Frontend React Repo
+ ```bash
+   git clone https://github.com/mohammedalli123/MercedesPartsTracker_React.git
+````
+
 ### Running Locally (Dev)
 
 **Prerequisite**:
