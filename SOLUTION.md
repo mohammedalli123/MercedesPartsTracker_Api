@@ -33,7 +33,7 @@ Stores the application's data.
 EF Core makes DB access simple, however sometimes struggles with complex apps which require complex queries. 
 
 ### Fargate *
-Fargate is fully managed but can work out more expensive than deploying on EC2 or EKS
+Fargate is fully managed and works out cheaper for simple application deployed on EC2 or EKS. The later should be chosen when requirements are more complex or full control is requird out of the infrastructure.
 
 ## Security & Monitoring Notes
 ### Security
