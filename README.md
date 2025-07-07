@@ -33,9 +33,49 @@ Run within Visual Studio
     ```bash
     docker compose up --build  
 
+## Architecture Overview
 
 ```mermaid
     graph TD
     A[Controller] --> B[Service]
-    B --> C[PostgreSQL DB]  
+    B --> C[PostgreSQL DB]
+```
 
+### Repository Pattern
+
+##### Web API Controller
+Handles incoming HTTP requests, performs initial validation, and delegates business operations to the Service Layer.
+
+#### Business Logic Layer
+This was omited due to time contraints but should be implemented to handle any business rule requirements.
+
+##### Service Layer
+Utilizes Entity Framework Core to interact with the database. It maps C# objects (Entities) to database tables and handles CRUD operations.
+
+#### PostgreSQL Database
+Stores the application's data.
+
+## Rationale
+
+The design of the `MercedesPartsTracker_Api` showcases **modularity**, **maintainability**, and **testability**.
+
+### Separation of Concerns
+By separating the Web API controller's responsibilities from the core business logic and data access (via a **Service Layer**), each component has a clear, single responsibility. This makes the codebase easier to understand, develop, and debug.
+
+### Testability
+The layered architecture greatly enhances unit testability:
+- **Controllers** can be tested by mocking the **Service Layer**.
+- **Services** can be tested by creating an in memory DB.
+
+This ensures that each "unit" of code can be verified in isolation.
+
+### Maintainability and Scalability
+Changes to the database schema or underlying data access technology are primarily confined to the Service Layer.  
+This modularity supports future scalability, allowing different layers to be deployed or scaled independently.
+
+### Reusability
+The **Service Layer** can be reused by other applications which need to interact with the same inventory data, promoting **code reuse** and **consistency**.
+
+### Container with Docker
+Using **Docker Compose** provides a consistent and isolated development and deployment environment.  
+It simplifies setting up both the **database** and the **API**, ensuring that dependencies are managed reliably across different machines and environments.
